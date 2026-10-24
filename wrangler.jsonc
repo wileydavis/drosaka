@@ -1,0 +1,8 @@
+{
+  "name": "drosaka",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./public" },
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "drosaka.com", "custom_domain": true }]
+}
